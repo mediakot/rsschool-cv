@@ -1,0 +1,1 @@
+# [rsschool-cv] (https://github.com/mediakot/rsschool-cv)
